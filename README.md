@@ -2,11 +2,5 @@
 Hello GitHub from VS Code
 
 ## New Feature
-This change is made in a feature branch.
+2025.12.25
 
-
-ttt
-
-第三次提交
-
-fff
